@@ -1,7 +1,7 @@
 # NovaWorks AI Project Manager (Infinity Hack '26)
 
-**Team:** [Team name]
-**Members:** [Member 1 name], [Member 2 name]
+**Team:** [Bug Hunters]
+**Members:** [Hamna Arshad], [Haleema Azeem]
 
 ## Stack
 
