@@ -100,10 +100,6 @@ Run the transcript test only once per fresh database, because re-running it adds
 | GET    | /api/projects/:id           | Role-based (404 if no access) |
 | POST   | /api/create-from-transcript | Admin only                    |
 
-## Demo Video
-
-[Add link here]
-
 ## Known Limitations
 
 - Sessions are stored in server memory. Restarting the server logs everyone out.
